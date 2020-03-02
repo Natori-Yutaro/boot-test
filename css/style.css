@@ -1,0 +1,51 @@
+.my-bg{
+    min-height:200px;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    font-size: 2rem;
+    text-shadow: 1px 1px 3px #333;
+    box-shadow: 1px 1px 3px #333;
+    border: 2px solid #000;
+    background-size: cover;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/7a/Oryctolagus_cuniculus_Tasmania.jpg);
+}
+/* 文章が入っているcol要素用 */
+.my-text{
+    display: flex;
+    align-items: center; 
+}
+
+.my-bg1{
+    min-height:200px;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    font-size: 2rem;
+    text-shadow: 1px 1px 3px #333;
+    box-shadow: 1px 1px 3px #333;
+    border: 2px solid #000;
+    background-size: cover;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e9/Chick.jpg);
+}
+
+.my-bg2{
+    min-height:200px;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    font-size: 2rem;
+    text-shadow: 1px 1px 3px #333;
+    box-shadow: 1px 1px 3px #333;
+    border: 2px solid #000;
+    background-size: cover;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/ae/AfricanWildCat.jpg);
+}
+
+.btn-lg{
+    width: 100%;
+}
+
+.btn-primary{
+    margin:10px;
+}
